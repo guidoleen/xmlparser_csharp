@@ -1,0 +1,11 @@
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\obj\Debug\netcoreapp3.1\XmlParserCamt.csprojAssemblyReference.cache
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\obj\Debug\netcoreapp3.1\XmlParserCamt.AssemblyInfoInputs.cache
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\obj\Debug\netcoreapp3.1\XmlParserCamt.AssemblyInfo.cs
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\bin\Debug\netcoreapp3.1\XmlParserCamt.exe
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\bin\Debug\netcoreapp3.1\XmlParserCamt.deps.json
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\bin\Debug\netcoreapp3.1\XmlParserCamt.runtimeconfig.json
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\bin\Debug\netcoreapp3.1\XmlParserCamt.runtimeconfig.dev.json
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\bin\Debug\netcoreapp3.1\XmlParserCamt.dll
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\bin\Debug\netcoreapp3.1\XmlParserCamt.pdb
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\obj\Debug\netcoreapp3.1\XmlParserCamt.dll
+D:\_PersonalDir\XmlParserCamt\XmlParserCamt\obj\Debug\netcoreapp3.1\XmlParserCamt.pdb
